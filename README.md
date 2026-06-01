@@ -1,7 +1,3 @@
-# angular-bug-fixes-portfolio
-
-This repo contains angular fixes i went through the most while development.
-
 # Angular Bug Fix Portfolio
 
 This repository contains Angular issues I have solved and documented.
